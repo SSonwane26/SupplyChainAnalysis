@@ -1,6 +1,13 @@
 # SupplyChainAnalysis
 Research Analysis using visualization tool MS Power BI.
 
+## About Project
+Power BI [Report](https://app.powerbi.com/view?r=eyJrIjoiODNmNTFkOTItYWU4Ny00YTdjLWE5MWItMGFiNTNjMDNiN2FhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionee3b2b52e601f38b35ab)
+
+Data Preprocessing using [Python](https://github.com/SSonwane26/SupplyChainAnalysis/blob/main/Supply_chain.ipynb)
+
+**Steps**
+
 - Gathered and analyzed a supply chain dataset consisting of multiple columns, including transaction details, shipping information, customer data, and product information.
 - Developed a relational database by creating separate tables for transactions, shipping, customers, products, and orders, ensuring efficient data organization and retrieval.
 - Established primary key and foreign key relationships between tables to enable data integration and facilitate complex queries.
